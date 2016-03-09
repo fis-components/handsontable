@@ -1,0 +1,10 @@
+{
+    "name": "handsontable",
+    "description": "Spreadsheet-like data grid editor that provides copy/paste functionality compatible with Excel/Google Docs",
+    "repos": "https://github.com/handsontable/handsontable.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "./src/browser.js",
+    "version": "0.23.0"
+}
